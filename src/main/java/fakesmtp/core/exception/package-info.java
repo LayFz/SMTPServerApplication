@@ -1,0 +1,2 @@
+
+package fakesmtp.core.exception;
